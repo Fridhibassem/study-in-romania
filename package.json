@@ -1,0 +1,8 @@
+{
+  "name": "study-in-romania",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Study in Romania landing page",
+  "scripts": {"build": "node build.js"},
+  "license": "ISC"
+}
